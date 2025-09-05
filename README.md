@@ -1,2 +1,2 @@
-# Cpp-D-16
+# Cpp-D-15
 Oh so here is the C program  for college!!! (found it easy though)
